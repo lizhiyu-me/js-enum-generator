@@ -1,0 +1,1 @@
+# js-enum-generator
